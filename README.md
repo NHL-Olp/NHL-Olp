@@ -1,5 +1,6 @@
 ### Hi there 👋
-I’m currently working on ur mom
+I’m currently working on ur mom 
+ Thằng Cường gà vl
 <!--
 **NHL-Olp/NHL-Olp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
